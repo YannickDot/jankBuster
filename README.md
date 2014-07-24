@@ -1,4 +1,4 @@
-ngDebug
+JankBuster.js
 =======
 
-A small library providing utilities to debug AngularJS-based apps in Chrome Devtools
+A small library providing utilities to leverage hardware compositing in JavaScript
